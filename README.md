@@ -1,5 +1,4 @@
 # Full-stack
-I made a simple full-stack application and deployed the same.
 
-*Here is the link to the deployed application:*
+**I created and deployed a straightforward full-stack application. You can access it using the link provided below.**
 http://springboot-react-fullstack-env.eba-mea393t3.eu-central-1.elasticbeanstalk.com/
